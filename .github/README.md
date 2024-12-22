@@ -1,5 +1,7 @@
 # Lista de Radios Españolas para Euro Truck Simulator 2
 
+[![Check Links](https://github.com/juan-miii/ets2-spain-radio/actions/workflows/link-check.yml/badge.svg)](https://github.com/juan-miii/ets2-spain-radio/actions/workflows/link-check.yml)
+
 Este repositorio contiene una lista de radios españolas organizada alfabéticamente en el formato `live_streams.sii`, compatible con **Euro Truck Simulator 2** y **American Truck Simulator**. 
 
 Se ha intentado priorizar el uso de enlaces HTTPS por motivos de seguridad, excepto en casos donde solo se dispone de enlaces HTTP. Además, las columnas están organizadas para facilitar la visualización del contenido.
