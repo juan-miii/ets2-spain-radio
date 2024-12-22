@@ -5,7 +5,7 @@ on:
     push:
       branches:
         - main
-        - action
+        - actions
     pull_request:
       branches:
         - main
