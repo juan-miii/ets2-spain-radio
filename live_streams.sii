@@ -1,0 +1,41 @@
+SiiNunit
+{
+live_stream_def : .live_streams {
+ stream_data: 34
+ stream_data[0]:  "http://c2.auracast.net:8022/movil                                                       |1000 Hits Spain        |Exitos      |ES |128|0"
+ stream_data[1]:  "https://stream.mediasector.es/radio/8000/activafm.mp3                                   |ActivaFM               |Pop         |ES |128|0"
+ stream_data[2]:  "http://cadena100-cope-rrcast.flumotion.com/cope/cadena100.mp3                           |Cadena 100             |Pop         |ES |128|0"
+ stream_data[3]:  "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3        |Cadena Dial            |Pop         |ES |128|0"
+ stream_data[4]:  "http://185.23.192.118:8006                                                              |Cadena Digital         |Top40       |ES |128|0"
+ stream_data[5]:  "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENASER.mp3         |Cadena SER             |Noticias    |ES |128|0"
+ stream_data[6]:  "http://185.23.192.118:8014/                                                             |Chanquete              |Sur         |ES |128|0"
+ stream_data[7]:  "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3     |esRadio                |Variedad    |ES |128|0"
+ stream_data[8]:  "https://streaming.shoutcast.com/gozadera                                                |Gozadera FM            |Reggaeton   |ES |128|0"
+ stream_data[9]:  "http://streaming.enantena.com:8000/radiohospitalet128.mp3                               |HospitaletFM           |Variedad    |CAT|128|0"
+ stream_data[10]: "https://stream.mediasector.es/radio/8030/bikinifm.mp3                                   |BikiniFM               |Electronica |ES |128|0"
+ stream_data[11]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40.mp3             |Los40 Principales      |Exitos      |ES |128|0"
+ stream_data[12]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSIC.mp3     |Los40 Classic          |Clasica     |ES |128|0"
+ stream_data[13]: "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3       |Los40 Urban            |Urbano      |ES |128|0"
+ stream_data[14]: "https://sonic.mediatelekom.net/8096/stram                                               |COPE                   |Noticias    |ES |128|0"
+ stream_data[15]: "https://megastar-cope-rrcast.flumotion.com/cope/megastar.mp3                            |MegaStarFM             |Exitos      |ES | 96|0"
+ stream_data[16]: "http://server6.20comunicacion.com:8044/;stream.mp3                                      |MortalFM               |Dance       |ES |128|0"
+ stream_data[17]: "https://streaming.enacast.com:8000/onamar128.mp3                                        |OnaMarFM               |Exitos      |CAT|128|0"
+ stream_data[18]: "http://pr1cen101.emisionlocal.com:8082/stream                                           |Onda Cero              |Noticias    |ES |119|0"
+ stream_data[19]: "http://streaming.enantena.com:8000/radiob128.mp3                                        |RCBadalona             |Variedad    |CAT|128|0"
+ stream_data[20]: "https://radio.martiproduccions.com/capitalhd                                            |Radio Capital (Girona) |Variedad    |CAT|128|0"
+ stream_data[21]: "http://91.187.93.115:8020/;                                                             |Radio Valira           |Informacion |AND|192|0"
+ stream_data[22]: "https://broadcast.radioponiente.org:8034/stream/1/                                      |RadioLuz               |Variedad    |ES |128|0"
+ stream_data[23]: "http://radioweb.radiomarcabarcelona.com:9000/stream                                     |Radio Marca            |Deportes    |ES |128|0"
+ stream_data[24]: "http://streaming.enantena.com:8000/radiopomar128.mp3                                    |RadioPomar Badalona    |Variedad    |ES |128|0"
+ stream_data[25]: "https://radiott-web.streaming-pro.com:6103/radiott.mp3                                  |RadioTeleTaxi          |Flamenco    |CAT| 96|0"
+ stream_data[26]: "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLE_ASO_OSUNA.mp3 |Radiole                |Pop         |ES |128|0"
+ stream_data[27]: "https://dispatcher.rndfnk.com/crtve/rnerc/main/mp3/high                                 |RNE Radio Clasica      |Noticias    |ES |128|0"
+ stream_data[28]: "https://dispatcher.rndfnk.com/crtve/rne1/main/mp3/high                                  |RNE Radio Nacional     |Noticias    |ES |128|0"
+ stream_data[29]: "https://dispatcher.rndfnk.com/crtve/rneree/main/mp3/high                                |RNE Radio Exterior     |Noticias    |ES |128|0"
+ stream_data[30]: "https://dispatcher.rndfnk.com/crtve/rner3/main/mp3/high                                 |RNE Radio 3            |Noticias    |ES |128|0"
+ stream_data[31]: "https://dispatcher.rndfnk.com/crtve/rner4/main/mp3/high                                 |RNE Radio 4            |Noticias    |ES |128|0"
+ stream_data[32]: "https://dispatcher.rndfnk.com/crtve/rne5/main/mp3/high                                  |RNE Radio 5            |Noticias    |ES |128|0"
+ stream_data[33]: "https://stream.regenbogen2.de/bawue/mp3-128/                                            |Rock FM                |Rock        |ES |128|0"
+}
+
+}
